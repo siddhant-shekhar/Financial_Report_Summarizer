@@ -136,3 +136,5 @@ To use the Financial Report Summarizer, follow these steps:
 
 ## Additional Information 
 For detailed information on how the system works, including the architecture and code explanations, please refer to the documentation files included in the project.
+
+![alt text](Flowchart.png)
